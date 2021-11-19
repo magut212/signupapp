@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Signup app</h1>
+        <h1>changed app</h1>
       </header>
     </div>
   );
